@@ -30,7 +30,7 @@ How to create an Employee
 
 As shown below, all the mandatory fields are highlighted.
 
-.. image::  _static/images/hr/employee.png
+.. image::  ../_static/images/hr/employee.png
 	:width: 600
 	:alt: Create Employee
 
@@ -75,7 +75,7 @@ Personal Details of the Employee such as Family Background details like name and
 
 Here, the Educational Details such as School/University, Qualification, Level and Year of Passing of the Employee can be saved as shown below:
  
-.. image:: _static/images/hr/educational-qualification.png
+.. image:: ../_static/images/hr/educational-qualification.png
 	:width: 600
 	:alt: Educational Qualification
 
@@ -83,7 +83,7 @@ Here, the Educational Details such as School/University, Qualification, Level an
 
 Just like Educational Qualification, an Employee's Previous Work Experience can also be captured in the External Work History table as shown below:
  
-.. image:: _static/images/hr/previous-work-experience.png
+.. image:: ../_static/images/hr/previous-work-experience.png
 	:width: 600
 	:alt: Previous Work Experience
 

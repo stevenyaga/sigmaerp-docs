@@ -1,6 +1,6 @@
-==================================================================
-5 Step Payroll for managing the complexities of processing payroll
-==================================================================
+==================
+Payroll Management
+==================
 
 Processing payroll of employees can be cumbersome and a time-consuming activity taking into account the financial and legal implications. Changes in tax, employee regulations, and legal compliances can make payroll processing a painfully complex task. Being one of the most important tasks carried out in an organisation, it is significant to ensure that there are no challenges in the process.
 
@@ -37,7 +37,7 @@ Once you have created all the salary components, you can define a salary structu
 
 Salary Structure represents how salaries are created in SIGMA based on earnings and deductions. In simple words, it is the breakup of the salary offered to your employees. Creation of salary structures in SIGMA requires you to first create Salary Components.
 
-.. image::  _static/images/hr/salary_structure.png
+.. image::  ../_static/images/hr/salary_structure.png
 	:width: 600
 	:alt: Salary Structure
 
@@ -47,7 +47,7 @@ Step 4. Assign the Salary Structure
 
 Once the salary structures have been created, you need to assign it to employees. If you miss this step, then you will not be able to proceed further. During assignment, you have to select the Income Tax Slab (if you have multiple slabs), since the percentage deduction of Income Tax will be calculated based on the same. You can also define a base amount if your salary structures are based on formulas.
 
-.. image::  _static/images/hr/salary_structure_assignment.png
+.. image::  ../_static/images/hr/salary_structure_assignment.png
 	:width: 600
 	:alt: Salary Structure
 
@@ -56,13 +56,13 @@ Step 5. Create a Payroll Entry & Salary Slips
 
 Once all of the above steps are done, you need to create a payroll entry. Once you have selected the payroll date, frequency and added the payment account, you can filter employees on the basis on department, designation and branch. If you do not wish to do so then you can directly click on 'Get employees'. On doing so, a list of all the employees will populate in the Employee Details section. You can then proceed by clicking on "Create Salary Slips" and all the salary slips will be generated in draft.
 
-.. image::  _static/images/hr/payroll_entry.png
+.. image::  ../_static/images/hr/payroll_entry.png
 	:width: 600
 	:alt: Payroll Entry
 
 You can verify the draft salary slips and then submit them via the payroll entry. On submitting the salary slips, an accrual journal entry will be created. This means we are booking the salary expenses in the system and not paying them.
 
-.. image::  _static/images/hr/confirm_salary_slips.png
+.. image::  ../_static/images/hr/confirm_salary_slips.png
 	:width: 600
 	:alt: Confirm Salary Slips
 
@@ -72,6 +72,6 @@ Step 6. Bank Entry
 
 Once you have booked the accrued salary slips, as a last step you need to make a Bank Entry. With this last step, your payroll process is completed, but this does not mean the salaries are transferred in the bank. That minor step has to be done manually.
 
-.. image::  _static/images/hr/payroll_bank_entry.png
+.. image::  ../_static/images/hr/payroll_bank_entry.png
 	:width: 600
 	:alt: Payroll Bank Entry
