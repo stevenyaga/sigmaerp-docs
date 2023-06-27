@@ -12,7 +12,8 @@ Welcome to SIGMA System Manual!
 
    README
    HISTORY
-   hr/employee 
+   hr/employee
+   hr/payroll-guide
 
 Indices and tables
 ==================
