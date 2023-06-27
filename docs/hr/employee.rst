@@ -9,8 +9,8 @@ An individual who works part-time or full-time under a contract of employment, a
 .. note::
 
 	To access the Employee master, go to:
+		> Home > Human Resources > Employee
 
-	> Home > Human Resources > Employee
 
 
 * **Prerequisites**

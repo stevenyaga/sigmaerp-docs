@@ -4,17 +4,19 @@ Payroll Management
 
 Processing payroll of employees can be cumbersome and a time-consuming activity taking into account the financial and legal implications. Changes in tax, employee regulations, and legal compliances can make payroll processing a painfully complex task. Being one of the most important tasks carried out in an organisation, it is significant to ensure that there are no challenges in the process.
 
+
 Challenges of Processing Payroll
 ================================
 
 As your organization grows and employees start to step in and out of your team, HR management can become difficult. Some common challenges of processing payroll are
 
-* Compliance
-* Accuracy
-* Tax Regulations
-* Employee Data management
-* Security
-* Managing changes based on evolving conditions (for example, the amount of Income Tax to be deducted changing across financial years)
+- Compliance
+- Accuracy
+- Tax Regulations
+- Employee Data management
+- Security
+- Managing changes based on evolving conditions (for example, the amount of Income Tax to be deducted changing across financial years)
+
 
 Sigma's 5 Step Payroll
 ========================
@@ -24,12 +26,14 @@ Step 1: Define Payroll Period
 
 The period for which payroll entries have to be made is defined as Payroll Period. Additionally, if you want the system to calculate taxable amounts automatically, then you must define the taxable salary slabs. You can also declare the maximum tax exemption amount applicable in this period. 
 
+
 Step 2: Define Salary Components
 --------------------------------
 
 The salaries that are offered to employees involve various components ranging from basic, House Rent Allowance (HRA), Professional Tax (PT), and so on. A salary component either be an **Earning** or a **Deduction** based on how it is defined. You can add the amount directly or it can be an amount calculated on the basis of base salary or a particular rate or based on a formula involving the other components as well.
 
 You can create salary components and define whether the component is an Earning or a Deduction component. There are certain checkboxes that you can check depending on the component type. Select the company and a default ledger account. Now, these salary components can be based on a particular formula or it can be a fixed amount. Only for Income Tax component you need to check a particular checkbox called "Variable based on Taxable Salary". This will ensure that the Income Tax is calculated automatically in the backend.
+
 
 Step 3: Create a Salary Structure
 ---------------------------------
@@ -42,6 +46,7 @@ Salary Structure represents how salaries are created in SIGMA based on earnings 
 	:alt: Salary Structure
 
 
+
 Step 4. Assign the Salary Structure
 -----------------------------------
 
@@ -50,6 +55,7 @@ Once the salary structures have been created, you need to assign it to employees
 .. image::  ../_static/images/hr/salary_structure_assignment.png
 	:width: 600
 	:alt: Salary Structure
+    
 
 Step 5. Create a Payroll Entry & Salary Slips
 ---------------------------------------------

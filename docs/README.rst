@@ -1,6 +1,6 @@
-============
-SIGMA MANUAL
-============
+=======================
+SIGMA ERP Documentation
+=======================
 
 This project documents a summarized manual of SIGMA ERP System
 
