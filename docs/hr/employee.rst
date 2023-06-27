@@ -6,15 +6,10 @@ Employee Management
 
 An individual who works part-time or full-time under a contract of employment, and has recognized rights and duties of your company is your Employee. When an applicant has signed the employment contract, basic and employment details of the employee should be captured in the system. To register a new employee, go to Newright-click it and hit ***Execute***
 
-Once the Employee status is set to **Left**, that particular Employee master will not be accessible in further transactions.
-.. note::
-
-	To access the Employee master, go to:
-		> Home > Human Resources > Employee
-
 .. note::
 
     * To access the Employee master, go to: > Home > Human Resources > Employee 
+	* Once the Employee status is set to **Left**, that particular Employee master will not be accessible in further transactions.
  
 * **Prerequisites**
 
