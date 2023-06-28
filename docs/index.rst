@@ -14,6 +14,7 @@ Welcome to SIGMA System Manual!
    HISTORY
    hr/employee
    hr/payroll-guide
+   hr/payroll-reports
 
 Indices and tables
 ==================

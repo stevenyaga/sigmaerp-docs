@@ -19,8 +19,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'SIGMA HR MANUAL'
-copyright = '2022, NILE DATA SYSTEMS'
+project = 'SIGMA ERP Documentation'
+copyright = '2023, NILE DATA SYSTEMS'
 author = 'Steve Nyaga'
 #author = 'Software Group'
 
