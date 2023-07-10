@@ -10,20 +10,20 @@ An individual who works part-time or full-time under a contract of employment, a
 
     * To access the Employee master, go to: > Home > Human Resources > Employee 
 	* Once the Employee status is set to **Left**, that particular Employee master will not be accessible in further transactions.
- 
+
+How to create an Employee
+-------------------------
+
 * **Prerequisites**
 
 Before creating an Employee, it is advised to create the following:
 
-- :ref:`Employee Types <employment-type>`
-- :ref:`Department <department>`
-- :ref:`Employee Grade <employee-grade>`
-- :ref:`Branch <branch>`
-- :ref:`Designation <designation>` 
-- :ref:`Leave Policy <leave-policy>` 
-
-How to create an Employee
--------------------------
+- Employee Types
+- Department
+- Employee Grade
+- Branch
+- Designation
+- Leave Policy
 
 1. Go to the Employee list, click on New.
 1. Enter the Employee's personal details such as Name, Gender, Date of Birth, and Date of Joining.
@@ -97,12 +97,3 @@ Exit details of the employee (if any) such as Resignation and Exit Interview can
 .. note::
 
     * Once the Employee status is set to **Left**, that particular Employee master will not be accessible in further transactions.
-   
-- **Additional Features**
-Some additional features included in the Employee master are as follows:
-
-
-- Emergency Contact
-- Health Insurance
-- Personal Bio
-- History in the Company
