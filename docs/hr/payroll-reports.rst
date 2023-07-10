@@ -1,5 +1,3 @@
-.. _execute-package:
-
 ===============
 Payroll Reports
 ===============

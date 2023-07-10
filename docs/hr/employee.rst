@@ -15,12 +15,12 @@ An individual who works part-time or full-time under a contract of employment, a
 
 Before creating an Employee, it is advised to create the following:
 
-* :ref:`Employee Types <employment-type>`
-* :ref:`Department <department>`
-* :ref:`Employee Grade <employee-grade>`
-* :ref:`Branch <branch>`
-* :ref:`Designation <designation>` 
-* :ref:`Leave Policy <leave-policy>` 
+- :ref:`Employee Types <employment-type>`
+- :ref:`Department <department>`
+- :ref:`Employee Grade <employee-grade>`
+- :ref:`Branch <branch>`
+- :ref:`Designation <designation>` 
+- :ref:`Leave Policy <leave-policy>` 
 
 How to create an Employee
 -------------------------
@@ -102,7 +102,7 @@ Exit details of the employee (if any) such as Resignation and Exit Interview can
 Some additional features included in the Employee master are as follows:
 
 
-* Emergency Contact
-* Health Insurance
-* Personal Bio
-* History in the Company
+- Emergency Contact
+- Health Insurance
+- Personal Bio
+- History in the Company
