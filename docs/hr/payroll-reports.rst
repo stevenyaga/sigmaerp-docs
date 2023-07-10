@@ -11,7 +11,8 @@ Once Salary Slips have been generated, it is time to check on how figures for ea
 .. note::
 
     * To access the payroll reports, go to: > Home > Payroll  
- 
+
+
 Payroll Summary Report
 ======================
 
@@ -36,11 +37,6 @@ Bank Transfer Summary Report
 
 - This report shows summaries for employees whose salary is paid through the bank. It allows for drill down just like the Payroll summary report.
 
-.. note::
-
-    * To access the payroll reports, go to: > Home > Payroll  
-	 
-
 	- **Start Date**. Specifies period start date for which you want to view the payroll
 	- **End Date**. Specifies period start date for which you want to view the payroll
 	- **Group By**. Determines how the payroll summary report will be organized or grouped. Available options are Branch, Department and Employement Type
@@ -59,11 +55,6 @@ Cash Payment Summary Report
 ===========================
 
 - This report shows summaries for employees whose salary is paid through in cash. It allows for drill down just like the Payroll summary report.
-
-.. note::
-
-    * To access the payroll reports, go to: > Home > Payroll  
-	 
 
 	- **Start Date**. Specifies period start date for which you want to view the payroll
 	- **End Date**. Specifies period start date for which you want to view the payroll
