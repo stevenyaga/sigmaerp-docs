@@ -13,7 +13,7 @@ Once Salary Slips have been generated, it is time to check on how figures for ea
     * To access the payroll reports, go to: > Home > Payroll  
  
 Payroll Summary Report
-----------------------
+======================
 
 - This report displays all salary components (earnings/deductions) for employees for a certain payroll period. It will display all values for the salary components in different columns. This is the payroll master report
 - The report can be queried using different parameters as below:
@@ -32,7 +32,7 @@ Payroll Summary Report
 	:alt: Payroll Summary
  
 Bank Transfer Summary Report
-----------------------------
+============================
 
 - This report shows summaries for employees whose salary is paid through the bank. It allows for drill down just like the Payroll summary report.
 
@@ -56,7 +56,7 @@ Bank Transfer Summary Report
 
 
 Cash Payment Summary Report
----------------------------
+===========================
 
 - This report shows summaries for employees whose salary is paid through in cash. It allows for drill down just like the Payroll summary report.
 
