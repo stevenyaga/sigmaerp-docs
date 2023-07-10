@@ -9,7 +9,8 @@ Once Salary Slips have been generated, it is time to check on how figures for ea
 #. Cash Payment Summary
 
 .. note::
-    * To access the payroll reports, go to: > Home > Payroll  
+	To access the payroll reports, go to: > Home > Payroll  
+
 
 Payroll Summary Report
 ======================
